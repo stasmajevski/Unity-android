@@ -655,6 +655,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
