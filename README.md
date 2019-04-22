@@ -10,7 +10,7 @@ Leidsin ametlik Unity tutoorial: https://unity3d.com/ru/learn/tutorials/s/roll-b
 Antud tutoorial on hästi struktureeritud ning lihtsalt arusaadav.
 
 # Added functionality
-Et oleks võimalik androidis mängida, tuleb teha vajalik muudatus ```PlayerController.cs``` failis
+Et oleks võimalik androidis palli liigutada, tuleb teha vajalik muudatus ```PlayerController.cs``` failis
 
 Enne:
 ```
